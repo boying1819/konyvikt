@@ -1,0 +1,20 @@
+img{
+    max-width: 500px;
+    max-height: 500px;
+    margin: auto;
+}
+
+p{
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.btn{
+    padding: 25px;
+    margin-left: 50px;
+}
+
+li{
+    text-align: center;
+}

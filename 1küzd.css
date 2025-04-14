@@ -1,0 +1,39 @@
+body{
+    background-image: url(./papirjó);
+    color: rgb(102, 17, 17);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+img{
+    border-radius: 20px;
+    border: solid 5px rgb(102, 17, 17);
+}
+
+header{
+    color: whitesmoke;
+    background-color: rgb(102, 17, 17);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    margin: 5px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+
+.btn{
+    background-color: rgb(102, 17, 17);
+    color: whitesmoke;
+    margin: auto;
+    margin-top: 50px;
+}
+
+li{
+    text-align: justify;
+}
